@@ -1,0 +1,17 @@
+{
+  "name": "cli-notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hadeer Elsaeed",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.15",
+    "yargs": "^15.4.0"
+  }
+}
